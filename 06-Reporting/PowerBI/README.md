@@ -1,0 +1,1 @@
+ReadMe file added for the purpose of the schema creation
