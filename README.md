@@ -15,35 +15,14 @@ Start at **/00-Showcase** for 8–12 guided examples:
 - Clean export to Excel/SSRS/Power BI
 
 ## Structure
-- **01-Development** – SPs, UDFs, Views, design patterns
-	**T-SQL**
-	**StoredProcedure **
-	**Function**
-	**View**
-	**Trigger**
-- **02-Performance-Tuning** – plans, Query Store, XE, indexing, stats, waits
-	**Indexing**
-	**Statistics**
-	**QueryStore**
-	**ExtendedEvent**
-	**WaitAalysis**
-	**DataTypeSizeCheck	**
-- **03-DBA-Operations** – backups, maintenance, DBCC, jobs, DR
-	**BackUps**
-	**Maintenance**
-	**SQLJobs**
-	**Alerts**
-- **04-Monitoring-Diagnostics** – health checks, baselines, perf counters
-	**HealthChecks**
-	**PerformanceCounters**
-	**Reports**
-- **05-ETL-SSIS** – file loaders, staging patterns, notes
-	**SSIS-Script**
-	**SSIS-Notes**
+- **01-Development** – T-SQL, StoredProcedure, Function, View, Trigger
+- **02-Performance-Tuning** – Indexing, Statistics, QueryStore, ExtendedEvent, WaitAalysis, DataTypeSizeCheck
+- **03-DBA-Operations** – BackUps, Maintenance, SQLJobs, Alerts
+- **04-Monitoring-Diagnostics** – HealthChecks, PerformanceCounters, Reports
+- **05-ETL-SSIS** – SSIS-Script, SSIS-Notes
 - **06-Reporting** – SSRS/Power BI notes, DAX samples, Excel outputs
-	**PowerBI**
 - **07-Utilities** – helper scripts & templates
-- **08-Maintenance-Script//
+- **08-Maintenance-Script**
 
 ## How to Use
 1. Replace placeholders: `<SERVER_NAME>`, `<DB_NAME>`, `<SCHEMA>`, `<TABLE>`.
@@ -51,7 +30,7 @@ Start at **/00-Showcase** for 8–12 guided examples:
 3. Follow each showcase README for step-by-step runs.
 
 ## 👨‍💻 Author
-**Alok Ranjan (ARS)**  
+**Alok Ranjan (M.Tech., BITS Pilani)**  
 - 20+ years in SQL Server Development & DBA  
 - Expert in Performance Tuning, Administration, ETL, Reporting  
 - 6000+ freelance hours with US clients (TopTal)  
