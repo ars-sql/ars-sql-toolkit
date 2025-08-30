@@ -31,8 +31,8 @@ Start at **/00-Showcase** for 8–12 guided examples:
 
 ## 👨‍💻 Author
 **Alok Ranjan (M.Tech., BITS Pilani)**  
+- 6000+ freelance hours with US clients (TopTal)  
 - 20+ years in SQL Server Development & DBA  
 - Expert in Performance Tuning, Administration, ETL, Reporting  
-- 6000+ freelance hours with US clients (TopTal)  
 - Google Cloud Certified Professional Data Engineer  
 - Author: *SQL Server Interview Question and Answer 2024* (Amazon)
